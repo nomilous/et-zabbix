@@ -1,0 +1,22 @@
+{
+    "name": "et-zabbix",
+    "description": "zabbix rest api server",
+    "version": "0.0.0",
+    "author": "nomilous <nomilous@gmail.com",
+    "contributors": [
+        { "name": "nomilous", "email": "nomilous@gmail.com" }
+    ],
+    "dependencies": {
+        "et": "*"
+    },
+    "keywords": [
+        "zabbix",
+        "monitoring",
+        "rest"
+    ],
+    "repository": "git@github.com:nomilous/et-zabbix.git",
+    "main": "./lib/et-zabbix",
+    "bin": {},
+    "scripts": {},
+    "engines": { "node": "*" }
+}
